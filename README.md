@@ -8,9 +8,9 @@ Eat glowing orbs. Chain combos up to x5. Hunt golden orbs for massive scores. Do
 
 ## ▶️ PLAY INSTANTLY
 
-**[🚀 CLICK HERE TO PLAY — OPENS IN 1 SECOND](https://raw.githubusercontent.com/ahmadabuhattab/snake-game/main/index.html)**
+**[🚀 CLICK TO PLAY — RUNS IN YOUR BROWSER](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ahmadabuhattab/snake-game/main/index.html)**
 
-*No download. No install. Just click and play in your browser.*
+*One click. No download. No install. Full game loads instantly.*
 
 ---
 
@@ -36,12 +36,10 @@ Eat glowing orbs. Chain combos up to x5. Hunt golden orbs for massive scores. Do
 
 Build combos by eating quickly. Golden orbs give big bonuses. Speed increases every 5 orbs. Survive longer = higher level = bragging rights.
 
-Open this repo on GitHub → hit the big **PLAY** link above → instant arcade bliss.
+Open this repo → hit the big **PLAY** link above → instant arcade in your browser.
 
-High scores are tracked in-browser for the session. Beat your best!
+High scores tracked in-browser for the session. Beat your best!
 
 ---
 
 *Made with neon love. Fork it. Improve it. Enjoy it.*
-
-![Neon Snake](https://raw.githubusercontent.com/ahmadabuhattab/snake-game/main/index.html) *— the game itself is the screenshot* 😉
