@@ -1,45 +1,23 @@
-# 🐍 SNAKE — Neon Arcade
+# Neon Serpent
 
-**The ultimate retro neon Snake experience.**
+## [Play Neon Serpent](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ahmadabuhattab/snake-game/main/index.html)
 
-Eat glowing orbs. Chain combos up to x5. Hunt golden orbs for massive scores. Don't bite your tail.
+A polished dark fantasy reimagining of the classic Snake game. Guide the serpent through the Hollow, gather soul embers, descend through faster depths, and preserve your highest offering.
 
----
+### Features
 
-## ▶️ PLAY INSTANTLY
+- Fully playable on desktop and mobile
+- Keyboard, D-pad, and swipe controls
+- Three difficulty modes
+- Optional wraparound walls
+- Pause, restart, sound effects, and saved high score
+- Responsive dark fantasy interface
 
-**[🚀 CLICK TO PLAY — RUNS IN YOUR BROWSER](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ahmadabuhattab/snake-game/main/index.html)**
+### Controls
 
-*One click. No download. No install. Full game loads instantly.*
+- Move: Arrow keys or WASD
+- Pause or resume: Space
+- Start or restart: Enter
+- Mobile: Swipe the board or use the on-screen D-pad
 
----
-
-## ✨ Features
-
-- 🎮 **Stunning neon cabinet UI** with CRT flicker, film grain & real-time effects
-- 🔥 **Combo system** — chain eats fast for multipliers up to x5
-- 🪙 **Golden orbs** — rare, high-value, timed power-ups
-- ⚡ **3 difficulty modes**: Chill / Normal / Insane + Solid or Wrap walls
-- 🎵 **Built-in chiptune music** & juicy sound effects (toggleable)
-- 👆 **Full touch/swipe support** + on-screen D-pad
-- 🤖 **Smart AI demo mode** when idle — watch it play!
-- 📱 **Mobile friendly** — perfect portrait play
-
-## 🎮 Controls
-
-- **Arrow Keys / WASD** — Move the snake
-- **Space** — Pause / Resume
-- **Enter** — Restart after game over
-- Tap screen or use D-pad on mobile
-
-## 🏆 How to Beat Your Best
-
-Build combos by eating quickly. Golden orbs give big bonuses. Speed increases every 5 orbs. Survive longer = higher level = bragging rights.
-
-Open this repo → hit the big **PLAY** link above → instant arcade in your browser.
-
-High scores tracked in-browser for the session. Beat your best!
-
----
-
-*Made with neon love. Fork it. Improve it. Enjoy it.*
+No installation is required. Open the play link and begin the ritual.
