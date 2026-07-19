@@ -1,6 +1,6 @@
 # Neon Serpent
 
-## [Play Neon Serpent](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ahmadabuhattab/snake-game/main/index.html)
+## [Play Neon Serpent](https://ahmadabuhattab.github.io/snake-game/)
 
 A polished dark fantasy reimagining of the classic Snake game. Guide the serpent through the Hollow, gather soul embers, descend through faster depths, and preserve your highest offering.
 
